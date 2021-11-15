@@ -5,7 +5,7 @@
 Recommend using cnpm
 
 ```sh
-npm install -g cnpm --registry=https://registry.npm.taobao.org
+npm install -g cnpm --registry=https://registry.npmmirror.com
 ```
 
 Then
